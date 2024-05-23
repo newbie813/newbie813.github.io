@@ -5,7 +5,7 @@ title: 欢迎来到阿豪的玻璃杯公司
 
 # 欢迎来到阿豪的玻璃杯公司！
 
-![首页大图](/assets/images/home-banner.jpg)
+![首页大图](/assets/images/1.webp)
 
 在**玻璃杯公司**，我们的激情和专业技能汇聚于每一个细节之中，从精心设计的产品到优质的客户服务，我们致力于为您带来无与伦比的玻璃杯体验。
 
@@ -21,19 +21,14 @@ title: 欢迎来到阿豪的玻璃杯公司
 
 精选高品质材料，结合现代美学设计，是您日常饮用的理想选择。
 
-![玻璃水杯](/assets/images/featured-product-1.jpg)
+![玻璃水杯](/assets/images/4.webp)
 
-### 艺术玻璃
-
-每一件都是独特的艺术品，为您的家居增添一抹艺术气息。
-
-![艺术玻璃](/assets/images/featured-product-2.jpg)
 
 ### 定制服务
 
 提供个性化定制服务，满足您的特殊需求。
 
-![定制服务](/assets/images/background.webp)
+![定制服务](/assets/images/new-product2.webp)
 
 ## 最新资讯
 

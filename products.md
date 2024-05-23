@@ -10,19 +10,19 @@ permalink: /products/
 
 ## 玻璃水杯
 
-![玻璃水杯](/assets/images/new-product.jpg)
+![玻璃水杯](/assets/images/5.webp)
 
 精选高品质材料制作，适合日常使用，品质与美观并重。
 
 ## 艺术玻璃
 
-![艺术玻璃](/assets/images/new-product2.webp)
+![艺术玻璃](/assets/images/3.webp)
 
 由顶级艺术家设计，每一件产品都是独一无二的艺术品。
 
 ## 定制服务
 
-![定制服务](/assets/images/new-product3.webp)
+![定制服务](/assets/images/new-product2.webp)
 
 提供定制服务，无论是个人定制还是企业礼品，我们都能满足您的需求。
 
