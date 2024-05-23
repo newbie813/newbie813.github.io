@@ -20,7 +20,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 1); /* Black overlay with 50% opacity，，最后一个参数是调遮罩的透明度 */
+    background: rgba(0, 0, 0, 0); /* Black overlay with 50% opacity，，最后一个参数是调遮罩的透明度 */
     z-index: -1;
   }
   
@@ -31,7 +31,7 @@ body {
   
   /* Tweak navbar styling if necessary */
   .navbar {
-    background-color: rgba(255, 255, 255, 0.8); /* Example to make navbar semi-transparent or adjust as needed */
+    background-color: rgba(255, 255, 255, 0.5); /* Example to make navbar semi-transparent or adjust as needed */
   }
   
   /* Additional custom styles can go here */
