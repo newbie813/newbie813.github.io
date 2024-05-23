@@ -1,0 +1,15 @@
+title: 玻璃杯公司
+description: 专注于高质量玻璃杯生产的公司
+baseurl: "" # 在未启用的情况下为""
+url: "https://your-github-username.github.io"
+markdown: kramdown
+theme: minima
+
+# Author信息
+author:
+  name: 玻璃杯公司
+  email: info@example.com
+
+# 友情链接
+plugins:
+  - jekyll-feed
