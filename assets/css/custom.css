@@ -1,27 +1,18 @@
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    margin: 0;
-}
-
-.site-content {
-    flex: 1;
-}
-
 /* Custom styles for the website */
 body {
     /* Adding a background image */
     background: url('/assets/images/background3.png') no-repeat center center fixed;
-    
     /* Ensuring the image covers the entire page */
     background-size: cover;
-  
     /* Optional: Adding an overlay to ensure text readability */
     position: relative;
     z-index: 1;
+    /* Implementing flexbox layout */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
-  
+
 /* If you want to add a dark overlay to improve text readability */
 body::before {
     content: "";
@@ -31,18 +22,28 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0); /* Black overlay with 0% opacity，最后一个参数是调遮罩的透明度 */
+    background: rgba(0, 0, 0, 0.2); /* Adjust the last value for overlay opacity */
     z-index: -1;
 }
-  
+
 /* Ensure all text has sufficient contrast against the background image */
 .text-primary {
     color: white; /* Example text color for better readability against dark backgrounds */
 }
-  
+
 /* Tweak navbar styling if necessary */
 .navbar {
     background-color: rgba(255, 255, 255, 0.5); /* Example to make navbar semi-transparent or adjust as needed */
 }
-  
+
+/* Additional custom styles */
+.site-content {
+    flex: 1; /* Ensuring that it takes up all the available space */
+}
+
+/* Styles for the footer to ensure it's always at the bottom */
+footer {
+    margin-top: auto; /* This pushes the footer down */
+}
+
 /* Additional custom styles can go here */
