@@ -9,7 +9,7 @@ categories: 产品介绍
 
 我们荣幸地宣布，我们的新产品——环保玻璃杯现已上市...
 
-![产品图片](/assets/new-product.jpg)
+![产品图片](/assets/image/new-product2.webp)
 
 ## 产品特点
 
