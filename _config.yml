@@ -1,15 +1,13 @@
 title: 玻璃杯公司
-description: 专注于高质量玻璃杯生产的公司
-baseurl: "" # 在未启用的情况下为""
-url: "https://your-github-username.github.io"
+email: info@example.com
+description: "专注于生产高质量玻璃杯的公司"
+baseurl: "" # 项目的基础路径
+url: "http://example.com" # 网站的URL
+twitter_username: yourTwitterHandle
+github_username:  yourGitHubHandle
+
+# Build settings
 markdown: kramdown
 theme: minima
-
-# Author信息
-author:
-  name: 玻璃杯公司
-  email: info@example.com
-
-# 友情链接
 plugins:
   - jekyll-feed
