@@ -7,7 +7,7 @@ title: 首页
 
 我们专注于生产高质量的玻璃杯，包括日常用品、艺术品和定制服务。
 
-![玻璃杯](/assets/images/glass.jpg)
+![玻璃杯](/assets/images/1.png)
 
 ## 为什么选择我们
 
