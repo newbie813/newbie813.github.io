@@ -5,7 +5,7 @@ permalink: /culture/
 ---
 
 # 企业文化
-
+### 团队合照 
 ![团队合照](/assets/images/team.jpg)
 
 ## 我们的价值观
