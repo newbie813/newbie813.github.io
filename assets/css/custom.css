@@ -1,3 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.site-content {
+    flex: 1;
+}
+
 /* Custom styles for the website */
 body {
     /* Adding a background image */
@@ -9,10 +20,10 @@ body {
     /* Optional: Adding an overlay to ensure text readability */
     position: relative;
     z-index: 1;
-  }
+}
   
-  /* If you want to add a dark overlay to improve text readability */
-  body::before {
+/* If you want to add a dark overlay to improve text readability */
+body::before {
     content: "";
     display: block;
     position: absolute;
@@ -20,18 +31,18 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0); /* Black overlay with 50% opacity，，最后一个参数是调遮罩的透明度 */
+    background: rgba(0, 0, 0, 0); /* Black overlay with 0% opacity，最后一个参数是调遮罩的透明度 */
     z-index: -1;
-  }
+}
   
-  /* Ensure all text has sufficient contrast against the background image */
-  .text-primary {
+/* Ensure all text has sufficient contrast against the background image */
+.text-primary {
     color: white; /* Example text color for better readability against dark backgrounds */
-  }
+}
   
-  /* Tweak navbar styling if necessary */
-  .navbar {
+/* Tweak navbar styling if necessary */
+.navbar {
     background-color: rgba(255, 255, 255, 0.5); /* Example to make navbar semi-transparent or adjust as needed */
-  }
+}
   
-  /* Additional custom styles can go here */
+/* Additional custom styles can go here */
