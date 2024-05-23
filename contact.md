@@ -1,11 +1,3 @@
-### 4. `contact.md` - 联系页面
-
-```markdown
----
-layout: default
-title: 联系我们
-permalink: /contact/
----
 
 # 联系我们
 
@@ -13,4 +5,4 @@ permalink: /contact/
 
 - **电话:** +1234567890
 - **邮箱:** info@example.com
-- **地址:** 杭州市西湖区XX街道XX号
+- **地址:** 云南省昆明市XX街道XX号

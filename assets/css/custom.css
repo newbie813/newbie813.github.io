@@ -1,0 +1,37 @@
+/* Custom styles for the website */
+body {
+    /* Adding a background image */
+    background: url('/assets/images/background3.png') no-repeat center center fixed;
+    
+    /* Ensuring the image covers the entire page */
+    background-size: cover;
+  
+    /* Optional: Adding an overlay to ensure text readability */
+    position: relative;
+    z-index: 1;
+  }
+  
+  /* If you want to add a dark overlay to improve text readability */
+  body::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Black overlay with 50% opacity */
+    z-index: -1;
+  }
+  
+  /* Ensure all text has sufficient contrast against the background image */
+  .text-primary {
+    color: white; /* Example text color for better readability against dark backgrounds */
+  }
+  
+  /* Tweak navbar styling if necessary */
+  .navbar {
+    background-color: rgba(255, 255, 255, 0.8); /* Example to make navbar semi-transparent or adjust as needed */
+  }
+  
+  /* Additional custom styles can go here */

@@ -9,7 +9,7 @@ categories: 产品介绍
 
 我们荣幸地宣布，我们的新产品——超屌玻璃杯现已上市...
 
-![产品图片](/assets/images/new-produc2.png)
+![产品图片](/assets/images/new-product2.webp)
 
 ## 产品特点
 
