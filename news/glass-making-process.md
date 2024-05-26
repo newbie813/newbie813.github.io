@@ -8,7 +8,7 @@ permalink: /news/glass-making-process
 
 玻璃制作是一门古老而复杂的工艺，涉及到化学、物理学和艺术的融合。让我们一起探索这一迷人过程的每一个步骤。
 
-![玻璃制作过程](/assets/images/glass-making.jpg)
+![玻璃制作过程](/assets/images/1.webp)
 
 ## 1. 原材料选择
 
